@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://mai2019.eshost.com.ar/.sitemap.xml
